@@ -4,7 +4,7 @@ import java.util.*;
 //hola mathiu y saico
 public class Convocatoria {
 
-    private String fechaIni;
+    private String fechaIni;  //hola mundo
     private int nrodiciplinas;
     private Disciplina dis[] = new Disciplina[10];
 
@@ -64,4 +64,5 @@ public class Convocatoria {
         }
     }
 }
+
 
