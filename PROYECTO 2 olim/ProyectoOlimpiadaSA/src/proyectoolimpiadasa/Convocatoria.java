@@ -1,7 +1,7 @@
 package proyectoolimpiadasa;
 
 import java.util.*;
-
+//hola mathiu y saico
 public class Convocatoria {
 
     private String fechaIni;
@@ -64,3 +64,4 @@ public class Convocatoria {
         }
     }
 }
+
